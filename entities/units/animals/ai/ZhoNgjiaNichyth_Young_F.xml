@@ -1,0 +1,36 @@
+<BFTypedBinder binderType="ZhoNgjiaNichyth_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Carcharhiniformes>
+                     <Carcharhinidae>
+                        <ZhoNgjiaNichyth>
+                           <ZhoNgjiaNichyth_Young>
+                              <ZhoNgjiaNichyth_Young_F/>
+                           </ZhoNgjiaNichyth_Young>
+                        </ZhoNgjiaNichyth>
+                     </Carcharhinidae>
+                  </Carcharhiniformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\ZhoNgjiaNichyth\ZhoNgjiaNichyth_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="ZhoNgjiaNichyth_Young_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+   <binder/>
+</BFTypedBinder>

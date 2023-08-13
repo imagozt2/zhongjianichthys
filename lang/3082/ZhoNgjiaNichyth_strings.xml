@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <ZhoNgjiaNichyth>Zhongjianichthys</ZhoNgjiaNichyth>
+      <ZhoNgjiaNichyth_stt>Zhongjianichthys</ZhoNgjiaNichyth_stt>
+      <ZhoNgjiaNichyth_lower>El Zhongjianichthys</ZhoNgjiaNichyth_lower>
+      <ZhoNgjiaNichyth_ltt>
+         <color r="255" g="248" b="178">
+            <b>Zhongjianichthys</b>
+         </color>
+         <br/>
+         Click para adoptar un Zhongjianichthys, uno de los primeros vertebrados.
+      </ZhoNgjiaNichyth_ltt>
+      <!--gift names-->
+      <ZhoNgjiaNichyth_Gift>Mochila de Zhongjianichthys</ZhoNgjiaNichyth_Gift>
+      <ZhoNgjiaNichyth_Gift_stt>Mochila de Zhongjianichthys</ZhoNgjiaNichyth_Gift_stt>
+      <ZhoNgjiaNichyth_Gift_lower>La Mochila de Zhongjianichthys</ZhoNgjiaNichyth_Gift_lower>
+      <ZhoNgjiaNichyth_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila de Zhongjianichthys</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve al Zhongjianichthys.
+      </ZhoNgjiaNichyth_Gift_ltt>
+</entityname>
+<zoopedia_zhongjianichyth>
+ <entry>Zhongjianichthys</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ZhoNgjiaNichyth/ZhoNgjiaNichyth_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extincto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar del Tetis<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: <i>(Mixinimorfi)</i><br/>Orden: Myllokunmingiiformes <br/>Familia: Myllokunmingiidae <br/>Genero: <i>Zhongjianichthys</i><br/>Especie: <i>Rostrata</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Zhongjianichthys</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es uno de los primeros vertebrados, juno con Haikouichthys y Myllokunmingia.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Posiblemente se enterraba en el suelo asomando los ojos.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Nacio durante la explosion Cambria.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Zhongjianichthys necesitas 1 estrella de fama en tu zoo. 
+   </color>
+   <p/>Es un pez del cambrico temprano que se puede hallar en los Esquistos de Maotianshan, en la China. Sus ojos se encuentra detras del lobulo antero-dorsal (una caracteristica avanzada en Jamoytius, los ojos son hacia la misma posicion). Hay ausencia de impresiones miotomas, lo que indica que la epidermis era mas gruesa, que consta de varias capas de celulas, como las lampreas y los mixinos. Otro de los diminutos enigamtic proto-vertebrados cuyos restos fósiles han sido descubiertos en China. Era similar, pero más avanzado que el Haikouichthys y Myokunmingia. Puede ser un vertebrado adecuado, o simplemente independiente adquiere estas características, así como un número de anfibios durante el Carbonifero fueron independientemente evolucionando a la condición de reptil. Tenia forma de Anguila, alargada.
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">Paleos.com</color>Imago
+  </cell>
+ </text>
+</zoopedia_zhongjianichyth>
+</ZT2Strings>
